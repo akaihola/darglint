@@ -52,6 +52,8 @@ setup(
     version="2.0.0",
     author="Terrence Reilly",
     author_email="terrencepreilly@gmail.com",
+    maintainer="Antti Kaihola",
+    maintainer_email="13725+akaihola@users.noreply.github.com",
     description=("A utility for ensuring Google-style docstrings "
                  "stay up to date with the source code."),
     license="MIT",
