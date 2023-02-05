@@ -240,7 +240,7 @@ def print_error_list():
 
 
 def print_version():
-    print('1.8.1')
+    print("2.0.0")
 
 
 def main():

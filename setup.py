@@ -49,7 +49,7 @@ flake8_entry_point = 'flake8.extension'
 
 setup(
     name="darglint2",
-    version="1.8.1",
+    version="2.0.0",
     author="Terrence Reilly",
     author_email="terrencepreilly@gmail.com",
     description=("A utility for ensuring Google-style docstrings "
